@@ -2,9 +2,9 @@
 
 ##Mathematics
 
-> Set Theory
->
 > Arithmetic
+>
+> Set Theory
 >
 > Functions
 >
@@ -46,4 +46,4 @@
 
 ## Philosophy
 
-> Confucius & Mencius
+> Confucius, Mencius, and Mozi
