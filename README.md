@@ -1,5 +1,8 @@
 # library
 
+A series of book recommendations for young people seeking to build a broad and thorough background in human knowledge.
+The library is organized as a series of courses. I recommend reading through an entire course before beginning the next.
+
 ---
 
 ## Art
